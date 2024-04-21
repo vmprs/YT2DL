@@ -1,6 +1,7 @@
 import os
 import subprocess
 import ctypes
+import yt-dlp # Important
 
 def set_console_title(title):
     ctypes.windll.kernel32.SetConsoleTitleW(title)
