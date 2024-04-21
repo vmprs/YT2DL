@@ -3,3 +3,4 @@ YouTube Video Downloader that downloads the video in the highest quality possibl
 
 # Requirements
 - Python
+- yt-dlp package (If you haven't installed it via python, please do so since it uses it.)
